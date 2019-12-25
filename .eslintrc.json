@@ -1,5 +1,6 @@
 {
-  "extends": ["standard", "prettier", "prettier/react"],
+  "extends": ["standard"],
+  "eextends": ["standard", "prettier", "prettier/react"],
   "env": {
     "browser": true,
     "jest": true
