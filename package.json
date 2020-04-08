@@ -66,5 +66,8 @@
 			"npm run lint:fix",
 			"git add"
 		]
+	},
+	"lint-staged": {
+		"*.js": []
 	}
 }
